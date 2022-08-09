@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://aparejorigandcrate.netlify.app
+Sitemap: https://aparejorigandcrate.netlify.app/sitemap.xml
